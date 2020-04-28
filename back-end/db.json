@@ -224,6 +224,46 @@
       "eyeColor": "gunmetal grey",
       "friends": [],
       "id": 11
+    },
+    {
+      "friends": "james",
+      "id": 12
+    },
+    {
+      "friends": "james",
+      "id": 13
+    },
+    {
+      "friends": "james",
+      "id": 14
+    },
+    {
+      "friends": "james",
+      "id": 15
+    },
+    {
+      "friends": "james",
+      "id": 16
+    },
+    {
+      "friends": "james",
+      "id": 17
+    },
+    {
+      "friends": "james",
+      "id": 18
+    },
+    {
+      "friends": "james",
+      "id": 19
+    },
+    {
+      "friends": "james",
+      "id": 20
+    },
+    {
+      "friends": "james",
+      "id": 21
     }
   ]
 }
